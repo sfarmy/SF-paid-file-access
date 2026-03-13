@@ -1,4 +1,6 @@
 {
+  "_PAID_FILES": "^^^^^^^^^^ PAID FILES ^^^^^^^^^^",
+
   "AGNAI-X": {
     "BOT_TOKEN": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
     "ADMIN_CHAT_IDS": ["7305665779","7331380618"]
@@ -24,13 +26,7 @@
     "ADMIN_CHAT_IDS": ["7305665779","7331380618"]
   },
 
-
-
-
-#^^^^^^^^^^FREE FILES^^^^^^^^^
-
-
-
+  "_FREE_FILES": "^^^^^^^^^^ FREE FILES ^^^^^^^^^^",
 
   "Shadowmailing": {
     "BOT_TOKEN": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
@@ -55,17 +51,12 @@
   "Sfxsam": {
     "BOT_TOKEN": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
     "ADMIN_CHAT_IDS": ["7305665779","7331380618"]
-  }
-},
+  },
 
-
-
-
-
-#^^^^^^^^TRAIL FILES^^^^^^^^^
-
+  "_TRIAL_FILES": "^^^^^^^^^^ TRIAL FILES ^^^^^^^^^^",
 
   "TAJAS TRAIL": {
     "BOT_TOKEN": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
     "ADMIN_CHAT_IDS": ["7305665779","7331380618"]
-  },
+  }
+}
