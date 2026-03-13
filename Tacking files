@@ -28,17 +28,17 @@
 
   "_FREE_FILES": "^^^^^^^^^^ FREE FILES ^^^^^^^^^^",
 
-  "Shadowmailing": {
+  "SHADOWMAILING": {
     "BOT_TOKEN": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
     "ADMIN_CHAT_IDS": ["7305665779","7331380618"]
   },
 
-  "Sfreset": {
+  "SFRESET": {
     "BOT_TOKEN": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
     "ADMIN_CHAT_IDS": ["7305665779","7331380618"]
   },
 
-  "Ind-x": {
+  "IND-X": {
     "BOT_TOKEN": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
     "ADMIN_CHAT_IDS": ["7305665779","7331380618"]
   },
