@@ -2,8 +2,17 @@
   "force_join": true,
 
   "channels": [
-    "-1003746793908",
-    "-1002708620916"
+    {
+      "id": "-1003746793908",
+      "username": "@anushar_file",
+      "link": "https://t.me/anushar_file"
+    },
+
+    {
+      "id": "-1002708620916",
+      "username": "@sf_reset",
+      "link": "https://t.me/sf_reset"
+    }
   ],
 
   "checker_bot_token": "8656977640:AAHTyP2o7qF0caf2EenkduZxLNypZDxqrXU",
