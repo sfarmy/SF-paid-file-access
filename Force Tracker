@@ -2,7 +2,6 @@
   "tools": [
     {
       "tool_name": "SF TOOL",
-
       "force_join": true,
 
       "channels": [
@@ -29,7 +28,6 @@
 
     {
       "tool_name": "SF × SOMANI",
-
       "force_join": true,
 
       "channels": [
