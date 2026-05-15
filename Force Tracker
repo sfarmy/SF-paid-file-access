@@ -2,7 +2,11 @@
   "active_tool": "tool1",
 
   "tools": {
+
     "tool1": {
+
+      "tool_name": "ANU FILE",
+
       "force_join": true,
 
       "channels": [
@@ -18,16 +22,19 @@
         }
       ],
 
-      "checker_bot_token": "8656977640:AAHTyP2o7qF0caf2EenkduZxLNypZDxqrXU",
+      "checker_bot_token": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
       "tracker_bot_token": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
 
-      "ADMIN_CHAT_IDS": [
-        "7305665779",
-        "7331380618"
-      ]
+      "admins": {
+        "7305665779": true,
+        "7331380618": true
+      }
     },
 
     "tool2": {
+
+      "tool_name": "SF RESET",
+
       "force_join": true,
 
       "channels": [
@@ -43,13 +50,14 @@
         }
       ],
 
-      "checker_bot_token": "8656977640:AAHTyP2o7qF0caf2EenkduZxLNypZDxqrXU",
+      "checker_bot_token": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
       "tracker_bot_token": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
 
-      "ADMIN_CHAT_IDS": [
-        "7305665779",
-        "7672413819"
-      ]
+      "admins": {
+        "7305665779": true,
+        "7672413819": true
+      }
     }
+
   }
 }
