@@ -17,7 +17,7 @@
         }
       ],
 
-      "checker_bot_token": "8656977640:AAHTyP2o7qF0caf2EenkduZxLNypZDxqrXU",
+      "checker_bot_token": "8656977640:AAHTyP2o7qF0caf2EenkduZxLNypZDxqrUXU",
       "tracker_bot_token": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
 
       "admins": [
@@ -27,7 +27,7 @@
     },
 
     {
-      "tool_name": "SF × SOMANI",
+      "tool_name": "AGANI-X",
       "force_join": true,
 
       "channels": [
@@ -43,7 +43,7 @@
         }
       ],
 
-      "checker_bot_token": "8656977640:AAHTyP2o7qF0caf2EenkduZxLNypZDxqrXU",
+      "checker_bot_token": "8656977640:AAHTyP2o7qF0caf2EenkduZxLNypZDxqrUXU",
       "tracker_bot_token": "7981536133:AAEbKQun7nsNvJ0-gf70mVTHFtZ2sdWuP-A",
 
       "admins": [
